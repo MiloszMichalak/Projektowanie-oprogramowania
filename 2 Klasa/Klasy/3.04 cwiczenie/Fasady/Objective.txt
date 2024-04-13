@@ -1,0 +1,9 @@
+Stworz fasade salonu urody, ktoory bedzie sie skladal z:
+
+-lokalu (obiekt z adresem, numerem teefonu oraz stawka czynszu)
+
+- osob zatrudnionych (lista obiektow typu kosmetyczka, fryzjerka oraz manikjurzystka) - lacznie 4 osoby ze wszystkich stanowisk
+
+- wyposazenie salonu (lista sprzetow i lista materialow eksploatacyjnych np szampony, grzebienie)
+
+

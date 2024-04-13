@@ -1,0 +1,5 @@
+Wzorzec kompozyt:
+
+Zakoduj osoby w firmie. Jest prezes, ktory ma pod soba Dyrektora finansow i Dyrektor logistyki
+W finansach pracuje ksiegowa, a w logistyce spedytor, magazynier i kierowca
+Stworz program na bazie kompozytu
